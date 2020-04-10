@@ -29,6 +29,9 @@ header {
     font-weight: bold;
 }
 
+p {
+    font-size: 1em;
+}
 code {
     background-color: #CCC;
     display: block;
